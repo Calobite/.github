@@ -11,12 +11,12 @@ Health Innovation: Empowering Vulnerable Communities for Health and Well-being
 
 <br>
 
-## Us
+## About Us
 | Bangkit ID | Name | Learning Path | University |
 | ---      | ---       | ---       | ---       |
-| M183B4KY2640  | Muhamad Hamdan Arrosyid | Machine Learning | Universitas Amikom Yogyakarta |
+| M183B4KY2640 | Muhamad Hamdan Arrosyid | Machine Learning | Universitas Amikom Yogyakarta |
 | M183B4KX3555 | Rachmasari Annisa Rida | Machine Learning |	Universitas Amikom Yogyakarta  |
-| M183B4KX1048  | Dennita Noor Febianty | Machine Learning |	Universitas Amikom Yogyakarta  |
+| M183B4KX1048 | Dennita Noor Febianty | Machine Learning |	Universitas Amikom Yogyakarta  |
 | C183B4KY0426 | Alvin Christ Yudantama | Cloud Computing | Universitas Amikom Yogyakarta |
 | C183B4KY3928 | Rizky Fadly Pramudya Wardana| Cloud Computing | Universitas Amikom Yogyakarta |
 | A283B4KY2003 | Irfan Maulana Rizqi | Mobile Development | 	Universitas Negeri Semarang |
@@ -42,3 +42,6 @@ Our goal is to use technology to help people be healthier. We're building an app
 ![APP 4](https://github.com/user-attachments/assets/d7a4f9a8-3bbe-470e-8306-533bd9c35f80)
 ![APP 5](https://github.com/user-attachments/assets/eb61ba0d-c178-4802-8fac-f635fc3b1dfb)
 
+<br>
+
+Download Our App Here: [Calobite_Final.zip](https://github.com/user-attachments/files/18124049/Calobite_Final.zip)
